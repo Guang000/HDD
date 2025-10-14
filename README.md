@@ -9,7 +9,7 @@ HDD provides a geometric foundation for efficient, interpretable, and generaliza
   <img src="figure/overview.jpg" alt="Overview of HDD" width="600">
 </p>
 
-- Code and Project Page will be released soon.
+- Code and Project Page will be released soon (Before Dec).
 - Sept 2025: Our paper has been accepted to NeurIPS 2025!
 - May 2025: Release preprint on arXiv.
 
