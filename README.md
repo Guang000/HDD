@@ -13,18 +13,6 @@ HDD provides a geometric foundation for efficient, interpretable, and generaliza
 - Sept 2025: Our paper has been accepted to NeurIPS 2025!
 - May 2025: Release preprint on arXiv.
 
-<!-- ## 📖 Project Overview
-
-Dataset Distillation aims to synthesize a compact dataset that retains the performance of the original large-scale data.
-However, conventional Euclidean-based methods overlook the hierarchical and geometric nature of real-world data, treating all samples as independent points.
-
-HDD (Hyperbolic Dataset Distillation) introduces Lorentz hyperbolic space to explicitly model these hierarchical structures.
-By aligning the Fréchet means (centroids) of real and synthetic datasets via geodesic distance minimization, HDD captures both global semantics and prototype-level representations, enhancing information fidelity while reducing noise.
-
-This geometric formulation enables hierarchical sample weighting and efficient pruning—retaining as little as 20% of the original data without significant performance degradation.
-
-HDD integrates seamlessly with state-of-the-art distribution matching methods (DM, IDM, Dance), consistently improving accuracy, stability, and cross-architecture generalization across benchmarks such as Fashion-MNIST, SVHN, CIFAR-10/100, and TinyImageNet. -->
-
 ## 🎯 Key Contributions
 
 - Hyperbolic Geometry for Dataset Distillation
