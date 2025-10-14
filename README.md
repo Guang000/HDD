@@ -9,7 +9,7 @@ HDD provides a geometric foundation for efficient, interpretable, and generaliza
   <img src="figure/overview.jpg" alt="Overview of HDD" width="600">
 </p>
 
-- Code and Project Page will be released soon (Before Dec).
+- Code and Project Page will be released soon (Before Dec 2025).
 - Sept 2025: Our paper has been accepted to NeurIPS 2025!
 - May 2025: Release preprint on arXiv.
 
@@ -28,4 +28,4 @@ Derives analytic weighting that prioritizes prototype-like (root-level) samples 
 Demonstrates that only 20% of the original data is sufficient to maintain comparable accuracy, highlighting hyperbolic redundancy reduction.
 
 - Broad Compatibility & Superior Results
-Integrates smoothly with DM, IDM, and Dance, yielding consistent gains in classification accuracy and training stability across diverse datasets.
+Integrates smoothly with DM and IDM, yielding consistent gains in classification accuracy and training stability across diverse datasets.
