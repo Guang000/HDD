@@ -5,7 +5,7 @@
 The first dataset distillation framework that leverages hyperbolic geometry to preserve hierarchical data structures.
 HDD provides a geometric foundation for efficient, interpretable, and generalizable dataset distillation.
 
-![Overview of HDD](figure/overview.pdf)
+![Overview of HDD](figure/overview.jpg)
 
 - Code and Project Page will be released soon.
 - Sept 2025: Our paper has been accepted to NeurIPS 2025!
