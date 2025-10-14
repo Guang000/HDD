@@ -37,5 +37,5 @@ Derives analytic weighting that prioritizes prototype-like (root-level) samples 
 - Efficient Hierarchical Pruning
 Demonstrates that only 20% of the original data is sufficient to maintain comparable accuracy, highlighting hyperbolic redundancy reduction.
 
--Broad Compatibility & Superior Results
+- Broad Compatibility & Superior Results
 Integrates smoothly with DM, IDM, and Dance, yielding consistent gains in classification accuracy and training stability across diverse datasets.
