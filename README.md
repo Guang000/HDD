@@ -1,4 +1,4 @@
-# HDD: Hyperbolic Dataset Distillation (NeurIPS 2025)
+# Hyperbolic Dataset Distillation (NeurIPS 2025)
 [![arXiv](https://img.shields.io/badge/arXiv-2505.24623-b31b1b.svg)](https://arxiv.org/abs/2505.24623)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue.svg)](https://guang000.github.io/HDD-Webpage/)
 
