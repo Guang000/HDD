@@ -1,6 +1,6 @@
 # HDD: Hyperbolic Dataset Distillation (NeurIPS 2025)
 [![arXiv](https://img.shields.io/badge/arXiv-2505.24623-b31b1b.svg)](https://arxiv.org/abs/2505.24623)
-[![Project Page](https://img.shields.io/badge/Project-Page-blue.svg)](https://arxiv.org/abs/2505.24623)
+[![Project Page](https://img.shields.io/badge/Project-Page-blue.svg)](https://guang000.github.io/HDD-Webpage/)
 
 The first dataset distillation framework that leverages hyperbolic geometry to preserve hierarchical data structures.
 HDD provides a geometric foundation for efficient, interpretable, and generalizable dataset distillation.
@@ -29,3 +29,14 @@ Demonstrates that only 20% of the original data is sufficient to maintain compar
 
 - Broad Compatibility & Superior Results
 Integrates smoothly with DM and IDM, yielding consistent gains in classification accuracy and training stability across diverse datasets.
+
+## Citing HDD
+If you find this project useful for your research, please use the following BibTeX entry.
+```
+@inproceedings{li2025hdd,
+  title={Hyperbolic Dataset Distillation},
+  author={Li, Wenyuan and Li, Guang and Maeda, Keisuke and Ogawa, Takahiro and Haseyama, Miki},
+  booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2025}
+}
+```
