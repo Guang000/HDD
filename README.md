@@ -3,7 +3,6 @@
 [![Project Page](https://img.shields.io/badge/Project-Page-blue.svg)](https://guang000.github.io/HDD-Webpage/)
 
 The first dataset distillation framework that leverages hyperbolic geometry to preserve hierarchical data structures.
-HDD provides a geometric foundation for efficient, interpretable, and generalizable dataset distillation.
 
 <p align="center">
   <img src="figure/overview.jpg" alt="Overview of HDD" width="600">
