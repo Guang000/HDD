@@ -3,6 +3,7 @@
 [![Project Page](https://img.shields.io/badge/Project-Page-blue.svg)](https://guang000.github.io/HDD-Webpage/)
 
 The first dataset distillation framework that leverages hyperbolic geometry to preserve hierarchical data structures.
+The repository is based on [geoopt](https://github.com/geoopt) , [DM](https://github.com/VICO-UoE/DatasetCondensation) and [IDM](https://github.com/uitrbn/IDM/tree/main). 
 
 <p align="center">
   <img src="figure/overview.jpg" alt="Overview of HDD" width="600">
