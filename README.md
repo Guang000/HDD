@@ -30,6 +30,13 @@ Demonstrates that only 20% of the original data is sufficient to maintain compar
 - Broad Compatibility & Superior Results
 Integrates smoothly with DM and IDM, yielding consistent gains in classification accuracy and training stability across diverse datasets.
 
+## Usage
+```
+cd IDM-HDD
+python3 -u IDM_cifar10.py --dataset CIFAR10 --model ConvNet --ipc 10 --dsa_strategy color_crop_cutout_flip_scale_rotate --init real --lr_img 1 --num_exp 5 --num_eval 5 --net_train_real --eval_interval 100 --outer_loop 1 --mismatch_lambda 0 --net_decay --embed_last 1000 --syn_ce --ce_weight 0.5 --train_net_num 1 --aug
+
+```
+
 ## Citing HDD
 If you find this project useful for your research, please use the following BibTeX entry.
 ```
