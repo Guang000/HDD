@@ -9,7 +9,7 @@ The repository is based on [geoopt](https://github.com/geoopt/geoopt) , [DM](htt
   <img src="figure/overview.jpg" alt="Overview of HDD" width="600">
 </p>
 
-- Code will be released soon (About Dec 2025).
+- Dec 2025: Code was released.
 - Oct 2025: Project page was released.
 - Sept 2025: Our paper has been accepted to NeurIPS 2025!
 - May 2025: Preprint was released.
